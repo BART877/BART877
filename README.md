@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BART877
+- 👋 Hi, I’m BART 
 - 👀 I’m interested in developing app and design 
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on myself 
 - 📫 How to reach me bart35230@gmail.com 
 
 <!---
